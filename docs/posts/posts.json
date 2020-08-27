@@ -33,7 +33,7 @@
   },
   {
     "path": "posts/8_27_20_questions/",
-    "title": "My questions about bloggging",
+    "title": "My questions about blogging",
     "description": "These are a list of questions I have about using R, Rstudio, and Github",
     "author": [
       {
@@ -44,7 +44,7 @@
     "date": "2020-08-27",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-08-27T12:51:15-04:00",
+    "last_modified": "2020-08-27T12:58:51-04:00",
     "input_file": "questions.utf8.md"
   }
 ]

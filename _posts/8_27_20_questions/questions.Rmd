@@ -1,5 +1,5 @@
 ---
-title: "My questions about bloggging"
+title: "My questions about blogging"
 description: |
   These are a list of questions I have about using R, Rstudio, and Github
 author:
@@ -31,6 +31,7 @@ My questions are as follows:
 3. What is distill?
 4. Are file names caps sensitive?
 5. My "viewer" view doesn't work. When I "knit" a new window will pop up, but nothing shows in Viewer.
+6. Why is this list one paragraph and not using the paragraph breaks that I put in (even though it works for the next section). 
 
 ## Github Questions
 1. What is the whole thing with "commit" on Github? 
