@@ -1,13 +1,12 @@
 ---
-title: "Welcome to Cog Psych Blog"
+title: "My first post"
 description: |
-  Welcome to our new blog, Cog Psych Blog. We hope you enjoy 
-  reading what we have to say!
+  This is a first post.
 author:
-  - name: Nora Jones 
-    url: https://example.com/norajones
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
+  - name: Josh Nagel 
+    url: 
+    affiliation: Baruch College & The Graduate Center, CUNY
+    affiliation_url: https://baruch.cuny.edu
 date: 08-27-2020
 output:
   distill::distill_article:
@@ -22,5 +21,5 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-
+I am writing my first post in R! This is so exciting - scary, but exciting. Also a little confusing. But I'm learning! 
 
