@@ -1,0 +1,25 @@
+---
+title: "My second post"
+description: |
+  This is a second post.
+author:
+  - name: Josh Nagel 
+    url: 
+    affiliation: Baruch College & The Graduate Center, CUNY
+    affiliation_url: https://baruch.cuny.edu
+date: 08-27-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+This is my second post. It will look different from my first post, I hope!
+
