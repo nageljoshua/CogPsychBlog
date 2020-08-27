@@ -1,0 +1,48 @@
+---
+title: "My questions about bloggging"
+description: |
+  These are a list of questions I have about using R, Rstudio, and Github
+author:
+  - name: Josh Nagel 
+    url: 
+    affiliation: Baruch College & The Graduate Center, CUNY
+    affiliation_url: https://baruch.cuny.edu
+date: 08-27-2020
+bibliography: Training.bib
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+# Questions
+
+## R Questions
+My questions are as follows: 
+1. In Rstudio, if I want to make a new post, do I have to "copy" an old post folder or can I make a new folder and a new .Rmd file? How do I do that? Also, what is .Rmd? 
+2. Do I need to keep all the meta-data about authorship and affiliation or can I delete it from some posts?
+3. What is distill?
+4. Are file names caps sensitive?
+5. My "viewer" view doesn't work. When I "knit" a new window will pop up, but nothing shows in Viewer.
+
+## Github Questions
+1. What is the whole thing with "commit" on Github? 
+
+### Practice URL
+
+Watch how to make this page [here](https://www.youtube.com/watch?v=q_Hai4Y9J_4).
+
+Class website: <https://crumplab.github.io/psyc73800/Blog.html>
+
+## References
+
+- Note: When I export from Zotero, I do not have "Better BibLaTeX". I just have "BibLaTeX".
+
+- I have to read this article for my training class on Monday [@bell_100_2017]

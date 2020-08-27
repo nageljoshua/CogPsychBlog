@@ -30,5 +30,21 @@
     "preview": {},
     "last_modified": "2020-08-27T12:22:48-04:00",
     "input_file": "secondp.utf8.md"
+  },
+  {
+    "path": "posts/8_27_20_questions/",
+    "title": "My questions about bloggging",
+    "description": "These are a list of questions I have about using R, Rstudio, and Github",
+    "author": [
+      {
+        "name": "Josh Nagel",
+        "url": {}
+      }
+    ],
+    "date": "2020-08-27",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-08-27T12:51:15-04:00",
+    "input_file": "questions.utf8.md"
   }
 ]
