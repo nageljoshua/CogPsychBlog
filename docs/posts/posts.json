@@ -1,5 +1,21 @@
 [
   {
+    "path": "posts/9_04_20_Readings/",
+    "title": "Notes on the Foundations Readings",
+    "description": "In thie blog post, I try to figure out a process for thinking and writing about the readings for the upcoming class.",
+    "author": [
+      {
+        "name": "Josh Nagel",
+        "url": {}
+      }
+    ],
+    "date": "2020-09-03",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-09-03T12:31:32-04:00",
+    "input_file": "Readings.utf8.md"
+  },
+  {
     "path": "posts/welcome/",
     "title": "My first post",
     "description": "This is a first post.",
