@@ -1,0 +1,38 @@
+---
+title: "Notes on the Foundations Readings II"
+description: |
+  In thie blog post, I write my thoughts on this week's readings.
+author:
+  - name: Josh Nagel 
+    url: 
+    affiliation: Baruch College & The Graduate Center, CUNY
+    affiliation_url: https://baruch.cuny.edu
+date: 09-03-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+These readings were tough! Given my limited background in cognitive psychology and computational modeling, much of the details were hard to grasp, but I tried my best. For this week's writing assignment, I plan on musing on ways to apply these findings or ways of thinking to my field, Industrial-Organizational Psychology:
+
+# Aujla et al (2019)
+
+I would love to try out a search engine like this (the link in the article didn't work!). If I/O psychology would have a similar search engine though, it might require a much larger database of journals. Our field tends to borrow a lot from other disciplines in psychology so just creating an engine with just the I/O journals would severely limit the utility of this tool. 
+
+However, the idea of applying psychological concepts to seemingly non-psychological tools, as demonstrated in this article, is core to I/O - we apply psychology to workplace to solve issues that may not have seemed to initially need psychology to "solve". 
+
+#  Crump et al. (2019)
+
+I very much liked the idea of this article and the authors' approach to finding a better explanation for the first- and mid-letter slowing phenomena through letter uncertainty (and not just planning). The application to I/O psychology though is difficult to connect. Can we generalize the theme of "uncertainty" and "planning" to explain slowness in other realms of human behavior? Thinking about task performance more generally, is slowness in dealing with more complex work tasks related to both a uncertainty effect and planning effect? Would interventions like trainings or built-in "planning" stages for projects help speed up productivity?
+
+# Hintzman (1986)
+
+I won't say Hintzman was incomprehensible for me, but it was pretty close :) As far as I understand, Hintzman demonstrated support for Multiple Trace Theories where each event gives rise to its own memory. So retrieval doesn't strengthen a memory, it creates a new one. Hence, there is only 1 memory system which stores episodic memories and abstract knowledge is derived from that aresenal of traces at the time of retrieval, but is not from any single memory?

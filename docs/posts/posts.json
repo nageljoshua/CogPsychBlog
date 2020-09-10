@@ -16,6 +16,22 @@
     "input_file": "Readings.utf8.md"
   },
   {
+    "path": "posts/9_11_20_Readings/",
+    "title": "Notes on the Foundations Readings II",
+    "description": "In thie blog post, I write my thoughts on this week's readings.",
+    "author": [
+      {
+        "name": "Josh Nagel",
+        "url": {}
+      }
+    ],
+    "date": "2020-09-03",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-09-10T11:48:37-04:00",
+    "input_file": "Readings.utf8.md"
+  },
+  {
     "path": "posts/welcome/",
     "title": "My first post",
     "description": "This is a first post.",
